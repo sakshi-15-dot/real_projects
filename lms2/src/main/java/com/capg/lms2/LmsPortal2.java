@@ -6,6 +6,8 @@ public class LmsPortal2 {
 		// TODO Auto-generated method stub
 		//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
 		
+		System.out.println("This is me");
+		
 		System.out.println("This is java training");
 
 	}
